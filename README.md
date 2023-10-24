@@ -114,7 +114,8 @@ An alert box is a simple popup used to display a message to the user.
 </html>
 
 
-Day 2. Week 1
+Day 2.
+Week 1
 
 The "same origin policy" is a security feature implemented by web browsers. 
 It's a crucial concept in web security that prevents a web page from making requests to a different domain than the one the page came from. 
